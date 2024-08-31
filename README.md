@@ -20,3 +20,8 @@ https://raw.githubusercontent.com/argoproj/argo-cd/v2.12.2/manifests/install.yam
 curl -o install.yaml https://raw.githubusercontent.com/argoproj/argo-cd/v2.12.2/manifests/install.yaml
 
 kubectl -n argocd apply -f ./argo-cd/argo_1.yaml
+
+
+
+
+https://github.com/kubernetes/examples/tree/master/staging/storage/minio
